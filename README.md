@@ -1,11 +1,5 @@
-## <b>Webpage template</b>
+This is as Jekyll theme built to make single page websites, articles, or literary masterpieces readable anywhere.
 
-This webpage template was made for a [colorful ECCV paper](http://richzhang.github.io/colorization/). See how the webpage looks [here](https://richzhang.github.io/webpage-template).
+### [Demo and Documentation](https://adueck.github.io/good-clean-read)
 
-To use this template, clone the repo:
-
-```
-git clone https://github.com/richzhang/webpage-template.git
-```
-
-Copy the contents into a `gh-pages` branch of a GitHub repo. That will automatically make a webpage under address [GITHUB_USERNAME.github.io/REPO_NAME](GITHUB_USERNAME.github.io/REPO_NAME).
+Built on top of <a href="http://chibicode.github.io/solo">Solo</a>, by [Shu Uesugi](https://github.com/chibicode)
